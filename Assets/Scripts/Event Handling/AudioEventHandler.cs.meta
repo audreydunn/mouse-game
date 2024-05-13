@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 19c5d203f627d7e48ae57a3cf0ee8abe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eventSound3DPrefab: {instanceID: 0}
+  - chewingAudio: {instanceID: 0}
+  - mouseTrapAudio: {instanceID: 0}
+  - mouseInPainAudio: {instanceID: 0}
+  - explosionAudio: {instanceID: 0}
+  - catAttackAudio: {instanceID: 0}
+  - catPurringAudio: {instanceID: 0}
+  - ghostCatChaseAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
